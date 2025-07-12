@@ -67,9 +67,6 @@ the layers.
 - **Retrieval Augmented Generation:** Now we have the final top search results, we can pass it to an GPT 3.5 along
   with the user query and a well-engineered prompt, to generate a direct answer to the query along with citations.
 
-## 6. System Architecture
-
-![](./architecture.png)
 
 # Contact
 Created by [@pawan-kumar-gurugram](https://github.com/pawan-kumar-gurugram) - feel free to contact me!
